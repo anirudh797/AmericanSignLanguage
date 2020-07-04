@@ -1,0 +1,37 @@
+{
+  "client_id": "32555940559.apps.googleusercontent.com",
+  "client_secret": "ZmssLNjJy2998hD4CTg2ejr2",
+  "id_token": {
+    "at_hash": "ulMynFLkVRKPd2AtYlD5ww",
+    "aud": "32555940559.apps.googleusercontent.com",
+    "azp": "32555940559.apps.googleusercontent.com",
+    "email": "kaptiyalanirudh9@gmail.com",
+    "email_verified": true,
+    "exp": 1593864088,
+    "iat": 1593860488,
+    "iss": "https://accounts.google.com",
+    "sub": "112739684808124201892"
+  },
+  "refresh_token": "1//0gTh4aOt78EPpCgYIARAAGBASNwF-L9Ir1cPNVmSIM7xQHX9SZOUKw8B88vTjomz_-JIGAUdsnBQeRZQsX96-1WSCbBCY5PuUNYM",
+  "revoke_uri": "https://accounts.google.com/o/oauth2/revoke",
+  "scopes": [
+    "https://www.googleapis.com/auth/appengine.admin",
+    "openid",
+    "https://www.googleapis.com/auth/compute",
+    "https://www.googleapis.com/auth/drive",
+    "https://www.googleapis.com/auth/cloud-platform",
+    "https://www.googleapis.com/auth/userinfo.email",
+    "https://www.googleapis.com/auth/accounts.reauth"
+  ],
+  "token_response": {
+    "access_token": "ya29.a0AfH6SMBzeZjJbOdMlEwvcduAQ9EPcB0pr0or65kfBM6iUoi4f_RV6Y2oU2pfgRuxltKhOlELrkcWvyUMOO2d1vWxl1wEWbaVIlgikU4fq-OVQQax0LMniCBk8gaCJVSYl5OxRMMoes0azaqEXx6MiMSFb8wlKWjD_xd4hAH5bbo",
+    "expires_in": 3599,
+    "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImE0MWEzNTcwYjhlM2FlMWI3MmNhYWJjYWE3YjhkMmRiMjA2NWQ3YzEiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiIzMjU1NTk0MDU1OS5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsImF1ZCI6IjMyNTU1OTQwNTU5LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTEyNzM5Njg0ODA4MTI0MjAxODkyIiwiZW1haWwiOiJrYXB0aXlhbGFuaXJ1ZGg5QGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoidWxNeW5GTGtWUktQZDJBdFlsRDV3dyIsImlhdCI6MTU5Mzg2MDQ4OCwiZXhwIjoxNTkzODY0MDg4fQ.MXjjXp0vgQNAY38WWfxX0h3F6FJOToXO0BfmWCghha7PiM36sIdUqLdf8lAtsgKv5hZigtZARJnxz5dNevl_PdCY0oDMYE-bD4ssHPN8H20Cxai7TEKpIYzPxWPxTnwPaHISzaNO79EIx20PHGa1Sk6A2dQf_2lYBtH8NU9hPKhYtaUKeyuzOOJWI18XRT9TS0s4drKpxEnhfZoXZcNQXkTiilKXeZ3CBjZUjDsFgAb0tFaJZvPB6jUcLI8_BTJmDct1NqfpN68MkHC9Q-CarSJTj27QowgR0FT7aCrO0p9cmxPFbqHK3_9SIIkk_jLkP-op9XPQgk7RdwgoXh8_lQ",
+    "refresh_token": "1//0gTh4aOt78EPpCgYIARAAGBASNwF-L9Ir1cPNVmSIM7xQHX9SZOUKw8B88vTjomz_-JIGAUdsnBQeRZQsX96-1WSCbBCY5PuUNYM",
+    "scope": "openid https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/appengine.admin https://www.googleapis.com/auth/compute https://www.googleapis.com/auth/accounts.reauth https://www.googleapis.com/auth/drive",
+    "token_type": "Bearer"
+  },
+  "token_uri": "https://www.googleapis.com/oauth2/v4/token",
+  "type": "authorized_user",
+  "user_agent": "google-cloud-sdk"
+}
